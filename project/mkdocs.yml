@@ -1,0 +1,30 @@
+site_name: Cartesi Docs
+
+nav:
+    - Getting Started: 
+        - Introduction: Introduction.md
+        - Installation: index.md
+        - Why Cartesi: Introduction.md
+        - Build a simple dapp: Build-a-simple-Dapp.md
+        - Support: Introduction.md
+        - Open source and contribution: Build-a-simple-Dapp.md
+   
+    - Deep Dive: 
+        - Nodes: machine.md
+        - Machine: 
+           - Overview: machine.md
+        - Roll ups: 
+           - Overview: Rollups.md
+    - Networks: machine.md
+    - Http API: machine.md
+    - Tools: tools.md
+    - Tutorials: introduction.md
+    - Frequently Asked Question: Build-a-simple-Dapp.md
+    - Release note: introduction.md
+
+
+theme: material
+features:
+    - navigation.expand
+palette:
+    primary: pink
