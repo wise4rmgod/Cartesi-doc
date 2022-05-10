@@ -2,6 +2,7 @@ site_name: Cartesi Docs
 
 nav:
     - Getting Started: 
+        - Welcome: Introduction.md
         - Introduction: Introduction.md
         - Installation: index.md
         - Why Cartesi: Introduction.md
